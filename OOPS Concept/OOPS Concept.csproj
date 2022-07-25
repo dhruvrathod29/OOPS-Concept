@@ -6,6 +6,7 @@
     <RootNamespace>OOPS_Concept</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>OOPS_Concept.EncaptulationDemo</StartupObject>
   </PropertyGroup>
 
 </Project>

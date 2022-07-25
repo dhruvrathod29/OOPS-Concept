@@ -54,8 +54,8 @@ namespace OOPS_Concept
 
             mt.sum3();
 
-            int ans2 = mt.sum4(a, b);
-            Console.WriteLine(ans2);
+            int ans4 = mt.sum4(a, b);
+            Console.WriteLine(ans4);
 
 
         }
