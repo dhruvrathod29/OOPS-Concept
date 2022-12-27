@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace OOPS_Concept
 {
+
+
+    // constructor
+
+
      class Countru
      {
         int a, b;
